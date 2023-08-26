@@ -1,2 +1,3 @@
 # Little-Taco-Shop
-A website for Little Taco Shop using HTML !
+Hi there, this is a project based on HTML 
+A website for Little Taco Shop 
